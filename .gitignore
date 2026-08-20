@@ -1,0 +1,15 @@
+.DS_Store
+.env
+*.swp
+*.tmp
+
+# Keep private material and large media out of Git.
+private/
+raw-media/
+exports/
+*.mov
+*.mp4
+*.mxf
+*.wav
+*.aiff
+

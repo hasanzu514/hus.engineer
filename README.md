@@ -15,9 +15,9 @@ The channel covers what process engineering and capital sales look like in pract
 
 ## Current videos
 
-| Video | Status | Plan |
+| Video | Status | Files |
 | --- | --- | --- |
-| 001. What a process engineer in capital sales does | Outline | [Open](videos/001-process-engineer-capital-sales/plan.md) |
+| 001. What a process engineer in capital sales does | First script drafted | [Plan](videos/001-process-engineer-capital-sales/plan.md) · [Script](videos/001-process-engineer-capital-sales/script.md) |
 | 002. I built a tool because proposals were scattered everywhere | Idea | [Open](videos/002-proposal-workbench/plan.md) |
 | 003. An engineer's experience at an industry conference | Event planned | [Open](videos/003-industry-conference/plan.md) |
 | 004. Where I trust AI in engineering | Idea | [Open](videos/004-ai-boundaries/plan.md) |

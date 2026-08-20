@@ -2,7 +2,9 @@
 
 ## Status
 
-Outline in progress.
+First script drafted.
+
+[Read the first script draft](script.md).
 
 ## Viewer
 
@@ -173,4 +175,3 @@ Link or folder:
 **What worked:**
 
 **What I would change:**
-

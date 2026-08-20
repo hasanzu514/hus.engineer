@@ -2,11 +2,11 @@
 
 ## Name
 
-hus.eng, subject to handle availability.
+hus.engineer, subject to handle availability.
 
 ## What the channel is about
 
-hus.eng shows what process engineering and capital sales look like in practice. It also explains how an engineer can use small tools and AI to improve repetitive work without building perfect commercial software.
+hus.engineer shows what process engineering and capital sales look like in practice. It also explains how an engineer can use small tools and AI to improve repetitive work without building perfect commercial software.
 
 The person and the job connect the subjects. A conference video does not need an AI section. A tool video does not need travel footage.
 
@@ -46,4 +46,3 @@ One long-form YouTube video each month. Aim for 6 to 10 minutes at first. Make a
 ## What success means
 
 The first six videos succeed if a few people ask real questions, describe their own workflow problems or return for another video. Useful messages matter more than broad but shallow views.
-

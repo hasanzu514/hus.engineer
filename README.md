@@ -1,6 +1,6 @@
-# hus.eng
+# hus.engineer
 
-This repository holds the plans, scripts, filming notes, publishing checklists and lessons for the hus.eng channel.
+This repository holds the plans, scripts, filming notes, publishing checklists and lessons for the hus.engineer channel.
 
 The channel covers what process engineering and capital sales look like in practice. It also covers the small tools and AI workflows I use to improve repetitive engineering work.
 
@@ -47,4 +47,3 @@ Raw footage, audio and video exports do not belong in this repository. Store the
 4. Check every planned screen and shot against `channel/boundaries.md`.
 5. Film from the plan and update it when the real story changes.
 6. Record the published URL and a short postmortem in the same file.
-

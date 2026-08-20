@@ -1,6 +1,6 @@
 # Repository instructions
 
-This is a writing and production-planning repository for hus.eng. Keep the files useful to a person preparing a video. Do not turn the repo into a software project.
+This is a writing and production-planning repository for hus.engineer. Keep the files useful to a person preparing a video. Do not turn the repo into a software project.
 
 ## Writing voice
 
@@ -32,4 +32,3 @@ This is a writing and production-planning repository for hus.eng. Keep the files
 - Update `planning/season-01.md` and the table in `README.md` when video status changes.
 - Put raw footage and exports outside Git. Store links and clip notes in the video plan.
 - Preserve useful rejected ideas in `planning/ideas.md` or `archive/`.
-

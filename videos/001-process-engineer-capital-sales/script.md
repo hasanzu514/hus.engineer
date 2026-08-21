@@ -4,7 +4,7 @@
 
 *Talking head at desk.*
 
-I'm a chemical engineer, but I don't work in a chemical plant or a lab. I work in mining, specifically mineral processing and capital-equipment sales.
+I studied chemical engineering, but I don't work in a chemical plant or a lab. I work in mining, specifically mineral processing and capital-equipment sales.
 
 When people think about mining, they normally think about getting rock out of the ground. That is one part of it. Once the rock is mined, it still has to be processed into something valuable.
 
@@ -44,11 +44,11 @@ An engineering company may be designing a new plant or completing a study. That 
 
 The easiest way to explain the role is to follow a proposal.
 
-Here is a generic example based on the kind of work we do. It does not use a real client's documents or data.
+Here is a generic example based on the kind of work we do.
 
 Say an existing plant wants to install sampling equipment. They need to collect a representative sample so they can test the particle-size distribution of material moving through the plant.
 
-The client sends an RFQ, which is a request for quotation. It may include process conditions, drawings and installation details, but some information will be missing, out of date or unclear.
+The client sends a request for quotation. It may include process conditions, drawings and installation details, but some information will be missing, out of date or unclear.
 
 In this example, the plant is already operating. Sampling was not included when the original plant was built, so there is no obvious place to put the new equipment.
 
@@ -58,9 +58,9 @@ This is where a site visit becomes useful.
 
 *Show a fake layout drawing. Mark several possible installation points.*
 
-We go to site and measure the possible locations. We check whether the sampler can collect a representative sample, physically fit and remain accessible for maintenance. One location may require structural changes. Another may fit but produce a poor sample.
+We go to site and measure the possible locations. We check whether the sampler can collect a representative sample, physically fit and remain accessible for maintenance. One location may require structural changes. Another may fit but cause plugging in the lines.
 
-We have to compare those options and work out what makes sense technically and commercially. We then size or select the equipment, coordinate with the other teams involved, prepare the price and build the proposal.
+We have to compare those options and work out what makes sense technically and commercially. We then size and select the equipment, coordinate with the other teams involved, prepare the price and build the proposal.
 
 I recently worked on a request with this type of installation problem. We visited the plant, measured several locations and developed an arrangement that we thought would work. We submitted the proposal, and the client is still reviewing it.
 
@@ -88,7 +88,7 @@ What surprised me when I moved further into this work was how many repeated manu
 
 You review documents, collect missing information, coordinate pricing and build another Word proposal. The technical problem changes, but much of the process repeats.
 
-I have been coding for about eight years. I have built small tools at previous jobs, a personal finance app and a mineral-processing software project.
+I have been coding for about eight years. I have built small tools at previous jobs, a personal finance app and a mineral-processing software product.
 
 When I see the same annoying task happening again and again, I start wondering whether I can make it easier.
 
@@ -112,4 +112,4 @@ That is the basic version of what I do as a process engineer in capital sales. I
 
 If you work in engineering, what part of your job is hardest to explain to someone outside the industry?
 
-If you are a student, what part of this role would you like me to explain in more detail?
+And if you are a student, what part of this role would you like me to explain in more detail?

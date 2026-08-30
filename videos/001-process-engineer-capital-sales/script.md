@@ -4,9 +4,8 @@
 
 _Talking head at desk._
 
-When people hear "sales," they usually think about pitching a product. My work
-often starts with process data, plant drawings and a problem: how do you fit new
-equipment into a plant that was never designed for it?
+When people hear "sales," they usually think about pitching a tech product. My work
+often starts with plant data, engineering drawings and a problem: how do you fit this new piece of equipment into a plant that was never designed for it?
 
 I'm a chemical engineer working in mineral processing and capital-equipment
 sales. My job is to turn problems like that into a technical solution, a price
@@ -32,7 +31,7 @@ _Show each type of equipment with a short label or simple animation._
 
 _Talking head. Cut to a synthetic RFQ and fake process data._
 
-Capital sales is different from selling a standard item from a catalogue or
+Capital sales in mining is different from selling a standard item from a catalogue or
 selling software.
 
 A client usually comes to us with a process problem or an equipment requirement.
@@ -42,12 +41,12 @@ prepare a proposal.
 The type of client changes the work.
 
 An operating mine may need equipment for a plant that is already running. They
-may want a solution as soon as possible because the current setup is causing a
-problem.
+may want a solution as soon as possible because the current setup is causing
+problems.
 
-An engineering company may be designing a new plant or completing a study. That
+An engineering firm may be designing a new plant or completing a study. That
 project could still be years away from construction. The project stage changes
-the information available and how the proposal is structured.
+the information available and how we develop the solution.
 
 ## How a proposal works
 
@@ -93,7 +92,7 @@ we thought would work. We submitted the proposal, and the client is still
 reviewing it.
 
 That last part is normal. A proposal does not always become an order, and it may
-take months before a decision is made.
+take months or even years before a decision is made.
 
 If the client does place the order, the work moves into project delivery. A
 project manager normally takes over and coordinates the equipment through

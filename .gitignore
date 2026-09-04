@@ -2,6 +2,7 @@
 .env
 *.swp
 *.tmp
+Content/
 
 # Keep private material and large media out of Git.
 private/
@@ -12,4 +13,3 @@ exports/
 *.mxf
 *.wav
 *.aiff
-

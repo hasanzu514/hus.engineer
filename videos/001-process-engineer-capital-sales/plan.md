@@ -119,7 +119,7 @@ Keep this to one short section:
 
 ## Closing question
 
-If you work in engineering, what part of your job is hardest to explain to someone outside the industry? If you are a student, what part of this role would you like me to explain next?
+Whether you are interested in the engineering side, working from home with travel, or the tools I use to handle proposals: what is one question you have about the job? Ask below and I will answer in the comments or cover it in an upcoming video.
 
 ## Shot list
 

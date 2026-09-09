@@ -4,157 +4,139 @@
 
 _Talking head at desk._
 
-When people hear "sales," they usually think about pitching a tech product. My
-work often starts with plant data, engineering drawings and a problem: how do
-you fit this new piece of equipment into a plant that was never designed for it?
+A piece of equipment can solve the process problem on paper and still be useless
+if it does not fit inside the plant.
 
-I'm a chemical engineer working in mineral processing. My job is to turn
-problems like that into a technical solution, a price and ultimately a proposal.
+That is the kind of problem I deal with. I am a chemical engineer working in
+mineral processing and capital-equipment sales. My job is to turn a client's
+process problem into a technical solution, a price and a proposal.
 
-I'll show you how that works, and why I started building software for the
-repetitive parts.
+I want to show you what that looks like through a typical equipment request.
 
 _B-roll of generic rock, approved plant footage or a simple process sketch._
 
-The exact process depends on the mineral and the plant. In simple terms, a
-process plant takes mined rock and separates the valuable minerals from the
-waste rock.
+When rock comes out of a mine, it usually needs to be processed before it becomes
+a useful product. A mineral-processing plant separates the valuable minerals
+from the waste rock.
 
-I work for an equipment supplier. We mainly supply cyclones for sizing particles
-and removing water, spirals for separating heavy minerals with gravity, and
-sampling systems to inspect what is moving through the process.
+I work for an equipment supplier. We supply cyclones that separate particles by
+size or remove water, spirals that separate heavier minerals using gravity, and
+sampling systems that collect a small portion of the material for testing.
 
 _Show each type of equipment with a short label or simple animation._
 
-## What capital sales means
+## Following an equipment request
 
-_Talking head. Cut to a synthetic RFQ and fake process data._
+_Show a synthetic RFQ labelled "fictional example." Use invented company,
+project and plant names._
 
-Capital sales in mining is different from selling a standard item from a
-catalogue or selling software.
+Let's use a fictional example based on situations that come up in this work. The
+company, plant and process data are all invented.
 
-Normally, a client comes to us with a process problem or an equipment
-requirement. My job is to understand what they need, work out a technical
-solution and prepare a proposal.
+An operating plant wants to test the particle-size distribution of material
+moving through its process. To do that properly, it needs sampling equipment
+that can collect a representative sample.
 
-The type of client changes the work.
+The client sends us a request for quotation, usually called an RFQ. It may include
+process conditions, drawings and installation details. Almost every RFQ also
+raises questions. Some information is missing, unclear or out of date.
 
-An operating mine may need equipment for a plant that is already running. They
-may want a solution as soon as possible because the current setup is causing
-problems.
+The first job is to understand what the plant needs. We review the process data,
+work out what type of sampler suits the application and estimate how large the
+equipment needs to be.
 
-On the other hand, an engineering firm may be designing a new plant for a study.
-That project could still be years away from construction. The project stage
-changes the information available and how we develop the solution.
+That only answers part of the problem.
 
-## How a proposal works
+In this example, the plant is already running. Sampling equipment was not
+included when the plant was built, so there is no obvious place to install it.
+The process data may tell us what size the sampler needs to be, but it cannot tell
+us whether that sampler will physically fit.
 
-_Show a fictional RFQ labelled as a demo. Use fake company and project names._
+Older plants rarely have a completely accurate 3D model. Even when a model
+exists, years of changes on site may not appear in it. A pipe has moved. A new
+platform has been added. The empty space shown on a drawing may no longer be
+empty.
 
-The easiest way to explain the role is to follow a proposal.
-
-Here is a generic example based on the kind of work we do.
-
-Say an existing plant wants to install sampling equipment. They need to collect
-a representative sample so they can test the particle-size distribution of
-material moving through the plant.
-
-The client sends a request for quotation. It may include process conditions,
-drawings and installation details, but some information will be missing, out of
-date or unclear.
-
-In this example, the plant is already operating. Sampling was not included when
-the original plant was built, so there is no obvious place to put the new
-equipment.
-
-Process data tells us what size the sampler needs to be but it doesn't tell us if
-it will physically fit. Older operating plants rarely have an accurate 3D model
-and even if they do, site modifications over the years mean the model is usually
-out of date.
-
-This is where a site visit becomes useful.
+This is when we may need a site visit.
 
 _Show a fake layout drawing. Mark several possible installation points._
 
-We go to site and measure the possible locations. We check whether the sampler
-can collect a representative sample, physically fit and remain accessible for
-maintenance. One location may require structural changes. Another may fit but
-cause other issues like plugging.
+On site, we measure the possible locations. We check whether the equipment can
+collect a representative sample, whether it will fit and whether people can
+reach it for maintenance.
 
-We have to compare those options and work out what makes sense technically and
-commercially. We then confirm the equipment selection, coordinate with the other
-teams involved, prepare the price and build the proposal.
+One location might need major structural changes. Another might be easy to
+install but create a risk of material building up and blocking the chute. The
+best location for sampling may be the hardest one to access.
 
-What I just explained is exactly what happened on a recent proposal I worked on.
-We submitted the proposal, and the client is still reviewing it.
+There is rarely one perfect answer. We compare the options and decide what makes
+sense technically and commercially.
 
-That last part is normal. A proposal does not always become an order, and it may
-take months or even years before a decision is made.
+Back at the desk, we confirm the equipment selection, coordinate with the other
+specialists involved and prepare the price. The proposal explains what we will
+supply, what the client will need to provide and how much the equipment will
+cost.
+
+Then we submit it and wait.
+
+A proposal may stay under review for months. On an early study, it could be years
+before the project reaches construction. Some proposals never become orders.
 
 If the client does place the order, the work moves into project delivery. A
-project manager normally takes over and coordinates the equipment through
+project manager normally coordinates the equipment through design,
 manufacturing and delivery.
+
+## What capital sales means
+
+That example is what capital sales looks like in my role. We are not taking a
+standard item off a shelf. We need to understand the process duty, select the
+equipment, find a practical arrangement and put a commercial offer around it.
+
+The client and the project stage change how we approach the work. An operating
+mine may need help with a problem that is affecting the plant today. An
+engineering firm may be designing a plant that will not be built for several
+years. The information, urgency and level of detail are different.
 
 ## What most days look like
 
 _B-roll of desk work, a clean calendar, notes and a synthetic proposal._
 
-Now most of my time is not spent walking around a plant.
+Site visits make better footage, but they are not a normal day for me. Most of my
+time goes into meetings, emails, process data, spreadsheets and proposal
+documents. I work from home most of the time, with site visits and conferences
+breaking up that routine.
 
-Most days involve meetings, emails, spreadsheets, proposal documents, and
-trying to automate the parts that repeat every week. There are also site visits
-and conferences, but these are less frequent.
-
-The boundaries of the role can also be blurry. Sometimes I can answer a question
-myself. Other times I need information from another product specialist or the
-client.
-
-A useful skill in this job is knowing when you do not have the answer, finding
-the person who does and following up until you get what you need.
+Missing information often takes more time than the calculation. I may need an
+answer from the client, a product specialist or someone preparing the price. A
+useful part of the job is knowing what I can answer myself, knowing when I need
+help and following up until the proposal can move forward.
 
 ## Why I started building tools
 
 _Show a clean demo interface and a few seconds of code. Do not show a work
 repository._
 
-What surprised me when I moved further into this work was how many repeated
-manual steps sit around the engineering.
+What caught me off guard was how much repeated document work sits around the
+engineering. We review RFQs, pull out important information, chase missing
+answers, coordinate pricing and build another Word proposal.
 
-You review documents, extract important information, coordinate pricing and
-build another Word proposal. The technical problem changes, but much of the
-process repeats.
+The equipment and technical problem change, but many of those steps repeat.
 
-I've been coding for about eight years. Over that time I've built personal
-software like a finance tracker app, a mineral-processing app, and several small
-tools at work.
+I have been coding for about eight years. I have built a personal finance
+tracker, a mineral-processing app and several small tools for my own work. When I
+run into the same annoying task every week, I start wondering if a small tool
+could handle part of it.
 
-So when I see the same annoying task happening again and again, I start
-wondering whether I can make it easier.
-
-I am not trying to turn every idea into a polished software product. Most of my
-tools begin as something small for my own work. Sometimes they help. Sometimes I
-build too much and have to simplify them later.
-
-I want that process to be part of this channel. I will show what I built, what
-failed and where I think AI is useful or risky in engineering work.
-
-## Work and life around the role
-
-_Short home-office sequence. Keep family members and private details off
-camera._
-
-I work from home most of the time. That gives me long periods to focus on
-proposals, and avoiding a commute gives me more flexibility around family life.
-
-Site visits and conferences break up that routine. I want to show those parts of
-the job as they happen, including the travel and the work that still needs to
-get done around them.
+Some of those tools help. Others become too complicated and need to be cut back.
+I want to show both sides on this channel, including where AI is useful and where
+I do not trust it in engineering work.
 
 ## Closing
 
 _Talking head._
 
-Whether you are interested in the engineering side, working from home with
-travel, or the tools I use to handle proposals: what is one question you have
-about the job? Ask below and I will answer in the comments or cover it in an
-upcoming video.
+So that is my job. I take an equipment request, work through the technical and
+commercial questions, and turn it into a proposal.
+
+What part of that job would you like me to unpack in another video? Leave your
+question below. I will use those questions to decide what to show next.

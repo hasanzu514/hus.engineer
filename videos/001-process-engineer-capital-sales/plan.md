@@ -2,7 +2,7 @@
 
 ## Status
 
-First script drafted.
+Revised script ready for review.
 
 [Read the first script draft](script.md).
 
@@ -81,14 +81,13 @@ We select the most practical arrangement, size the equipment, identify other wor
 
 Clearly label this as a fictional example based on common work.
 
-### Real site story
+### Composite installation problem
 
-- A client wanted to add sampling to an operating plant for particle-size testing.
-- Sampling had not been included in the original layout, so there was no obvious installation point.
-- We went to site and measured several locations.
-- We checked whether the equipment would fit, collect a representative sample and remain accessible.
-- We developed an arrangement and submitted it.
-- The client is still reviewing the proposal. Do not claim that it became an order.
+- Base the example on common situations, not one identifiable project.
+- Sampling was not included in the fictional plant layout, so there is no obvious installation point.
+- Show several possible locations on an invented drawing.
+- Explain the checks for sample quality, physical fit, blockages and maintenance access.
+- Describe proposal outcomes in general. Do not connect the example to a real pending proposal.
 
 ### What most days look like
 
@@ -154,7 +153,7 @@ Whether you are interested in the engineering side, working from home with trave
 - Use a fictional RFQ and fake plant drawing.
 - Record a demo application, not the production application.
 - Do not show proposal numbers, prices, contacts, file paths or work notifications.
-- State that the real client is still reviewing the proposal.
+- Do not connect the fictional example to a specific client, site or proposal outcome.
 
 ## Media location
 

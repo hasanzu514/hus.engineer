@@ -8,7 +8,7 @@ Season 1 tests whether viewers care more about the role, the workflow tools or t
 
 **Purpose:** Introduce the role, mineral processing, equipment proposals and the reason for building tools.
 
-**Status:** First script drafted.
+**Status:** Revised script ready for review.
 
 ## Video 002
 

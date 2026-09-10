@@ -11,6 +11,9 @@ That is the kind of problem I deal with. I am a chemical engineer working in
 mineral processing and capital-equipment sales. My job is to turn a client's
 process problem into a technical solution, a price and a proposal.
 
+Preparing those proposals involves a lot of repeated work. That is why I
+started building small tools of my own.
+
 I want to show you what that looks like through a typical equipment request.
 
 _B-roll of generic rock, approved plant footage or a simple process sketch._
@@ -89,13 +92,12 @@ manufacturing and delivery.
 ## What capital sales means
 
 That example is what capital sales looks like in my role. We are not taking a
-standard item off a shelf. We need to understand the process duty, select the
-equipment, find a practical arrangement and put a commercial offer around it.
+standard item off a shelf. We need to understand the process, find an
+arrangement that works in the real plant and prepare a commercial offer for it.
 
-The client and the project stage change how we approach the work. An operating
-mine may need help with a problem that is affecting the plant today. An
-engineering firm may be designing a plant that will not be built for several
-years. The information, urgency and level of detail are different.
+The amount of detail depends on the project. An operating plant may need an
+answer now. An engineering firm may be pricing a plant that will not be built
+for years.
 
 ## What most days look like
 
@@ -113,8 +115,10 @@ help and following up until the proposal can move forward.
 
 ## Why I started building tools
 
-_Show a clean demo interface and a few seconds of code. Do not show a work
-repository._
+_Show a synthetic workflow spread across an RFQ, email, notes, a spreadsheet
+and a proposal. Copy one invented value between documents and track a missing
+question. Then briefly show a clean demo interface and a few seconds of code.
+Do not show a work repository._
 
 What caught me off guard was how much repeated document work sits around the
 engineering. We review RFQs, pull out important information, chase missing
@@ -138,5 +142,9 @@ _Talking head._
 So that is my job. I take an equipment request, work through the technical and
 commercial questions, and turn it into a proposal.
 
-What part of that job would you like me to unpack in another video? Leave your
-question below. I will use those questions to decide what to show next.
+On this channel, I want to show more of this work and the small tools I build
+around the parts that repeat.
+
+What should I unpack next? The equipment, the proposal process or one of those
+tools? Leave your question below. I will use those questions to decide what to
+show next.

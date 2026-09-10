@@ -36,13 +36,13 @@ Text: `PROCESS ENGINEER + SALES?`
 
 ## Opening draft
 
-I'm a chemical engineer, but I don't work in a chemical plant or a laboratory. I work in mining, specifically mineral processing and capital-equipment sales.
+A piece of equipment can solve the process problem on paper and still be useless if it does not fit inside the plant.
 
-When rock comes out of the ground, it still needs processing before it becomes a useful product. It may need to be crushed, separated, classified, sampled or concentrated. My part of the industry supplies some of the equipment used in that process.
+That is the kind of problem I deal with. I am a chemical engineer working in mineral processing and capital-equipment sales. My job is to turn a client's process problem into a technical solution, a price and a proposal.
 
-Most of my job does not happen at a mine. Most days involve client meetings, process data, equipment selection, pricing and a lot of proposal documents.
+Preparing those proposals involves a lot of repeated work. That is why I started building small tools of my own.
 
-In this video, I'll explain what my role involves, how an equipment request becomes a proposal and why I started building my own tools around the work.
+I want to show you what that looks like through a typical equipment request.
 
 ## Plain-language equipment explanations
 
@@ -118,7 +118,9 @@ Keep this to one short section:
 
 ## Closing question
 
-Whether you are interested in the engineering side, working from home with travel, or the tools I use to handle proposals: what is one question you have about the job? Ask below and I will answer in the comments or cover it in an upcoming video.
+On this channel, I want to show more of this work and the small tools I build around the parts that repeat.
+
+What should I unpack next? The equipment, the proposal process or one of those tools? Leave your question below. I will use those questions to decide what to show next.
 
 ## Shot list
 
@@ -139,11 +141,13 @@ Whether you are interested in the engineering side, working from home with trave
 - Writing clarification questions
 - Reviewing a fake equipment selection
 - Editing a synthetic proposal
+- Moving one invented value between a fake RFQ, spreadsheet and proposal
+- Tracking a missing question across synthetic email, notes and documents
 - Joining a meeting with fake names or no visible participant list
 
 ### Tool preview
 
-- A few seconds of a clean demo interface
+- A few seconds of a clean demo interface after showing the scattered workflow
 - A few seconds of code in a clean demo repository
 - Do not explain the software yet
 
